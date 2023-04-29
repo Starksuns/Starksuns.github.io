@@ -158,22 +158,22 @@ img {
         height: auto;
     }
 
-    .Port-BTN{
+   .Port-BTN{
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         text-align: center;
-        padding: 0.5rem;
+        padding: 0.8rem;
         height: auto;
         text-align: center;
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.3rem;
         font-family: 'Karla', sans-serif;
         background: #140606;
         color: white;
-        border-radius: 1rem;
+        border-radius: 0.5rem;
         transition: all 1s;
-        font-weight: 200;
+        font-weight: 180;
         font-size: 12px;
     }
 
