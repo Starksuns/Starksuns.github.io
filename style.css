@@ -13,11 +13,12 @@
     overflow-x: hidden;
 }
 
-.Avatar{
+.Avatar img{
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 2rem;
+    width: 120px;
 } 
 
 .Name-Header{
